@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128728372681",
+    "project_id": "fruitproject-90db6",
+    "storage_bucket": "fruitproject-90db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128728372681:android:7f48941128addb3b6cc418",
+        "android_client_info": {
+          "package_name": "com.example.fruitproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYZvBKUTpFZaq5D3Nucn7t_EEqvF_htuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
